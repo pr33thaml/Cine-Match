@@ -18,9 +18,3 @@ Cine-Match is a simple movie recommendation system implemented in Python, design
 ## Requirements
 - **Python 3.x**: Ensure Python 3.x is installed on your system.
 - **No External Libraries**: The project does not require any external libraries, leveraging Python's built-in functionalities for implementation.
-
-## Setup and Usage
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository_url>
-   cd Cine-Match
